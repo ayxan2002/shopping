@@ -1,0 +1,10 @@
+.footer {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #222; /* темный фон */
+  color: white; /* текст белый */
+  position: relative; /* если в будущем нужно фиксировать */
+  bottom: 0;
+  left: 0;
+}
